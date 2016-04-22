@@ -1,2 +1,2 @@
 # cucumber-rautomation
-Example Cucumber and Rautomation
+Example of Cucumber and Rautomation with Notepad
